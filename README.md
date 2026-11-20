@@ -4,10 +4,10 @@
 
 ## Identitas
 
-- Nama: **[Isi nama lengkap kamu]**
-- NIM: **[Isi NIM kamu]**
-- Kelas: **[Isi kelas kamu]**
-- Mata kuliah: **[Isi nama mata kuliah]**
+- Nama: **[RIANA KRISTINA SITUMEANG]**
+- NIM: **[25210019]**
+- Kelas: **[KOMPUTERISASI AKUNTANSI]**
+- Mata kuliah: **[PEMOGRAMAN WEB II]**
 
 > Ganti bagian dalam tanda kurung siku dengan identitasmu sebelum mengumpulkan proyek.
 
